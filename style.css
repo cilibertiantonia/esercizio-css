@@ -18,16 +18,14 @@ h3{
     color:#7b2a11;
 }
 
-.mouse{
-    background-color: beige;
-}
-
 nav{
     background-image:url(./media/img5.jpg);
     height: 100vh;
     
 }
+body{
+    background-color: beige;
+}
 .mouse:hover{
-    background-color: rgb(172, 127, 32);
-    color: black;
+    background-color: rgb(243, 243, 27);
 }
